@@ -1,0 +1,33 @@
+.titulo{
+    text-align: center ;
+}
+
+.texto{
+    text-align: center;
+}
+
+.contenedor{
+    display: flex; 
+    flex-wrap: wrap;
+
+}
+
+.gato{
+    max-width: 300px    ;
+    float: left;
+    border: 3px solid black;
+    margin-right:15px ;
+}
+
+.perro{
+    max-width: 300px    ;
+    float: left    ;
+    border: 3px solid black;
+    margin-right:15px ;
+
+}
+
+.centro{
+    text-align: center;
+    
+}
