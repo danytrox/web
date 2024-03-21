@@ -26,8 +26,21 @@
     margin-right:15px ;
 
 }
-
 .centro{
     text-align: center;
     
+}
+.personas{
+    text-align: center;
+
+}
+
+
+.container_move{
+    text-align: right;
+}
+
+.conteiner_lista{
+    margin-left: 200px;
+
 }
